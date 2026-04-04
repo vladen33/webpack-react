@@ -1,6 +1,6 @@
 {
 	"name": "webpack-react",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
@@ -67,6 +67,7 @@
 		"react-refresh": "^0.18.0",
 		"sass": "^1.99.0",
 		"sass-loader": "^16.0.7",
+		"standard-version": "^9.5.0",
 		"style-loader": "^4.0.0",
 		"stylelint": "^17.6.0",
 		"stylelint-config-standard": "^40.0.0",
